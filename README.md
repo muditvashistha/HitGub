@@ -26,9 +26,9 @@ HitGub is a lightweight, beginner-friendly version control system built with Pyt
 
 ## 🧩 Folder Structure
 
-├── core_functions.py  # Handles creating checkpoints, logs, diffs
-├── user_interface.py  # Beautiful Tkinter UI
-├── working.py  # Example working file (user writes code here)
-├── .checkpoints/  # Stores all checkpoint versions and diff logs
+├── core_functions.py  
+├── user_interface.py  
+├── working.py  
+├── .checkpoints/  
 
 ---
