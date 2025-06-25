@@ -1,7 +1,7 @@
 # HitGub
 HitGub is a lightweight, beginner-friendly version control system built with Python and Tkinter. It lets you create **code checkpoints**, **track changes**, and **revert to previous versions** — all without needing Git.
 
-> 🚀 Perfect for learning version control basics or tracking changes in single-file Python projects.
+> 🚀 Perfect for learning version control basics or tracking changes.
 
 ---
 
